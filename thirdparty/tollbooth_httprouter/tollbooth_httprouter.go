@@ -3,8 +3,8 @@ package tollbooth_httprouter
 import (
 	"net/http"
 
-	"github.com/didip/tollbooth"
-	"github.com/didip/tollbooth/config"
+	"github.com/delphinus/tollbooth"
+	"github.com/delphinus/tollbooth/config"
 	"github.com/julienschmidt/httprouter"
 )
 

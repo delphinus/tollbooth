@@ -1,8 +1,8 @@
 package tollbooth_gin
 
 import (
-	"github.com/didip/tollbooth"
-	"github.com/didip/tollbooth/config"
+	"github.com/delphinus/tollbooth"
+	"github.com/delphinus/tollbooth/config"
 	"github.com/gin-gonic/gin"
 )
 

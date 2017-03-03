@@ -2,8 +2,8 @@ package tollbooth_negroni
 
 import (
 	"github.com/urfave/negroni"
-	"github.com/didip/tollbooth"
-	"github.com/didip/tollbooth/config"
+	"github.com/delphinus/tollbooth"
+	"github.com/delphinus/tollbooth/config"
 	"net/http"
 )
 

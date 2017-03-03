@@ -7,9 +7,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/didip/tollbooth/config"
-	"github.com/didip/tollbooth/errors"
-	"github.com/didip/tollbooth/libstring"
+	"github.com/delphinus/tollbooth/config"
+	"github.com/delphinus/tollbooth/errors"
+	"github.com/delphinus/tollbooth/libstring"
 )
 
 // NewLimiter is a convenience function to config.NewLimiter.

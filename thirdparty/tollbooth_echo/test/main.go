@@ -3,8 +3,8 @@ package main
 import (
 	"time"
 
-	"github.com/didip/tollbooth"
-	"github.com/didip/tollbooth/thirdparty/tollbooth_echo"
+	"github.com/delphinus/tollbooth"
+	"github.com/delphinus/tollbooth/thirdparty/tollbooth_echo"
 	"github.com/webx-top/echo"
 	"github.com/webx-top/echo/engine/standard"
 )
